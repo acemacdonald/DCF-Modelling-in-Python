@@ -1,0 +1,6 @@
+# DCF Modelling using Python - Part 1
+This has been a personal project that I've been wanting to get to for a while. As my previous experience in financial modelling has always been in MS Excel, I've longed sought to pivot to Python simply for my perusal to see if there are any advantages so this will continue to be a work in progress for the foreseeable future.
+
+In addition, I mainly code in R so the techniques I've used come from many sources on the web, in conjunction with the odd course I've taken to improve my knowledge. I have previously attempted this in R and found that I much prefer python. This however is simply a Part 1 in what will be a multiple part series, and the goal is to get more and more advanced and eventually bring in techniques such as NLP and Machine Learning in order to explore how the latest technological and theoretical innovations can enhance the financial modelling process.
+
+I am also NOT A FINANCIAL ADVISOR - so any learnings from this project that are applied in any capacity beyond what this project is set out to accomplish is not advised. For any financial advice, always contact your financial advisor or qualified professional.
